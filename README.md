@@ -1,2 +1,7 @@
 # test_sin
-test Sine activation function in densenet
+I try to use the sine in the densenet but the results are not good.
+
+the data like this
+![]()
+
+
