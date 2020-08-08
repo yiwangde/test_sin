@@ -5,7 +5,7 @@ I have 1800 pictures of marine life in 20 categories
 
 each picture like this
 
-![](https://github.com/yiwangde/test_sin/blob/master/data/train_data/1.jpg)
+![image](https://github.com/yiwangde/test_sin/blob/master/data/train_data/1.jpg)
 
 
 
